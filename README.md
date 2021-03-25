@@ -1,2 +1,7 @@
 # To-Do-App
-This simple app was built using Django and was written in Python
+Is a simple To-Do app made with Django that allows you to make new items to a list, as well as cross them off the list.
+
+Next install Django.
+```bash
+ python -m pip install Django
+```
